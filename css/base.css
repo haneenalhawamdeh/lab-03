@@ -1,0 +1,13 @@
+body {
+  margin: auto;
+  padding: 111px;
+  font-family: 'Ubuntu', sans-serif;
+  text-align: center;
+   font-size: 17px;
+   background-color: rgb(113, 78, 117);
+   color: rgb(56, 27, 35);
+
+}
+footer {
+  clear: both;
+}
